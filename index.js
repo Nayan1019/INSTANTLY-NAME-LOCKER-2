@@ -19,8 +19,8 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "1444219454091149";        // Group ka ID
-const LOCKED_GROUP_NAME = "🔐 ROHAN URF SAMAR KA BAAP RON!!T XWD";     // Locked name
+const GROUP_THREAD_ID = "965929395789777";        // Group ka ID
+const LOCKED_GROUP_NAME = "🔐 YUMRAJ KA BAAP RON!!T XWD";     // Locked name
 
 // Variables for spam prevention
 let lastTitleCheck = {};
