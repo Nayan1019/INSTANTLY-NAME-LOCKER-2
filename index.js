@@ -20,7 +20,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID = "1483788726721389";        // Group ka ID
-const LOCKED_GROUP_NAME = "🔐 SANDHYA+MIRZA+JIYA+ALL HELPER KA SAHIL😂";     // Locked name
+const LOCKED_GROUP_NAME = "🔐 SANDHYA+MIRZA+JIYA+ALL HELPER KA BAAP SAHIL😂";     // Locked name
 
 // Variables for spam prevention
 let lastTitleCheck = {};
