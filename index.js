@@ -20,7 +20,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID = "983859984645757";        // Group ka ID
-const LOCKED_GROUP_NAME = "ANKI UTF LUCKY +ROYAL PRINCE+SAMEER TERI MA KA FATA BOXXDA RKB TERI MA FB KI TOP RAND HAI 😏🖕🔐";     // Locked name
+const LOCKED_GROUP_NAME = "RAHUL SAMER ROCKY TUM SAB KI BAHN KI XHUT LIBISTIK LAGA KE XHODUNGA PRINCE KE LUND SE 😏🖕🔐";     // Locked name
 
 // Variables for spam prevention
 let lastTitleCheck = {};
