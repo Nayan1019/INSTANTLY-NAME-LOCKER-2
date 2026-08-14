@@ -19,8 +19,8 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "983859984645757";        // Group ka ID
-const LOCKED_GROUP_NAME = "RAHUL SAMER ROCKY TUM SAB KI BAHN KI XHUT LIBISTIK LAGA KE XHODUNGA PRINCE KE LUND SE 😏🖕🔐";     // Locked name
+const GROUP_THREAD_ID = "1025687640239409";        // Group ka ID
+const LOCKED_GROUP_NAME = "AAYUSH OR SANDESH KI RANDI DIDI KE XHUT PRINCE KE LAND SE DAFAN😏🖕🔐";     // Locked name
 
 // Variables for spam prevention
 let lastTitleCheck = {};
